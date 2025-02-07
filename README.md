@@ -2,7 +2,16 @@
 
 *Used CodeSanBox to setup (easily turn preview into url link)
 
+*Silly valentines day card with 2 buttons and some gifs
+
 *Tis the season <3
+
+
+
+
+
+
+
 
 
 export default {
