@@ -3,5 +3,5 @@
 `Tis the season <3`
 
 
-*Used CodeSanBox to setup (easily turn preview into url link)*
+*Used CodeSanBox to setup (easily turn preview into url link)* 
 *React + TypeScript + Vite*
